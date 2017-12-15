@@ -1,17 +1,34 @@
-a {
-  color: green;
+.div1 {
+  float: left;
+  background-color: blue;
+  width: 200px;
+  height: 100px;
 }
 
-a:hover {
-  color: red;
-  text-decoration: underline;
+.div2 {
+  float: left;
+  background-color: green;
+  width: 200px;
+  height: 100px;
 }
 
-a:active {
-  color: yellow;
+.div3 {
+  float: left;
+  background-color: orange;
+  width: 200px;
+  height: 100px;
 }
 
-a:visited{
-  color: orange;
-  text-decoration: none;
+.div4 {
+  float: left;
+  background-color: yellow;
+  width: 200px;
+  height: 100px;
+}
+
+.div5 {
+  float: left;
+  background-color: red;
+  width: 200px;
+  height: 100px;
 }
